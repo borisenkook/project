@@ -1,0 +1,7 @@
+D:\code\repo_github\hw2\Homework2 task4\obj\Debug\Homework2 task4.csprojAssemblyReference.cache
+D:\code\repo_github\hw2\Homework2 task4\obj\Debug\Homework2 task4.csproj.CoreCompileInputs.cache
+D:\code\repo_github\hw2\Homework2 task4\bin\Debug\Homework2 task4.exe.config
+D:\code\repo_github\hw2\Homework2 task4\bin\Debug\Homework2 task4.exe
+D:\code\repo_github\hw2\Homework2 task4\bin\Debug\Homework2 task4.pdb
+D:\code\repo_github\hw2\Homework2 task4\obj\Debug\Homework2 task4.exe
+D:\code\repo_github\hw2\Homework2 task4\obj\Debug\Homework2 task4.pdb

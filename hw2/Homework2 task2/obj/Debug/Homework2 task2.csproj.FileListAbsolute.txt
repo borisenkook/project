@@ -1,0 +1,6 @@
+D:\code\repo_github\hw2\Homework2 task2\bin\Debug\Homework2 task2.exe.config
+D:\code\repo_github\hw2\Homework2 task2\bin\Debug\Homework2 task2.exe
+D:\code\repo_github\hw2\Homework2 task2\bin\Debug\Homework2 task2.pdb
+D:\code\repo_github\hw2\Homework2 task2\obj\Debug\Homework2 task2.csproj.CoreCompileInputs.cache
+D:\code\repo_github\hw2\Homework2 task2\obj\Debug\Homework2 task2.exe
+D:\code\repo_github\hw2\Homework2 task2\obj\Debug\Homework2 task2.pdb
