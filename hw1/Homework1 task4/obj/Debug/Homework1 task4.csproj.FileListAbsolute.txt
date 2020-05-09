@@ -1,0 +1,7 @@
+D:\Документы\Программирование\Homework1 task4\bin\Debug\Homework1 task4.exe.config
+D:\Документы\Программирование\Homework1 task4\bin\Debug\Homework1 task4.exe
+D:\Документы\Программирование\Homework1 task4\bin\Debug\Homework1 task4.pdb
+D:\Документы\Программирование\Homework1 task4\obj\Debug\Homework1 task4.csprojAssemblyReference.cache
+D:\Документы\Программирование\Homework1 task4\obj\Debug\Homework1 task4.csproj.CoreCompileInputs.cache
+D:\Документы\Программирование\Homework1 task4\obj\Debug\Homework1 task4.exe
+D:\Документы\Программирование\Homework1 task4\obj\Debug\Homework1 task4.pdb
