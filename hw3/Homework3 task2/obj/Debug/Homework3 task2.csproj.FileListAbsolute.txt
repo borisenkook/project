@@ -1,0 +1,7 @@
+D:\code\project\hw3\Homework3 task2\bin\Debug\Homework3 task2.exe.config
+D:\code\project\hw3\Homework3 task2\bin\Debug\Homework3 task2.exe
+D:\code\project\hw3\Homework3 task2\bin\Debug\Homework3 task2.pdb
+D:\code\project\hw3\Homework3 task2\obj\Debug\Homework3 task2.csprojAssemblyReference.cache
+D:\code\project\hw3\Homework3 task2\obj\Debug\Homework3 task2.csproj.CoreCompileInputs.cache
+D:\code\project\hw3\Homework3 task2\obj\Debug\Homework3 task2.exe
+D:\code\project\hw3\Homework3 task2\obj\Debug\Homework3 task2.pdb

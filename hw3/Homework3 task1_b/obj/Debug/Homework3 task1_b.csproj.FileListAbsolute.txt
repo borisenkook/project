@@ -1,0 +1,7 @@
+D:\code\project\hw3\Homework3 task1_b\bin\Debug\Homework3 task1_b.exe.config
+D:\code\project\hw3\Homework3 task1_b\bin\Debug\Homework3 task1_b.exe
+D:\code\project\hw3\Homework3 task1_b\bin\Debug\Homework3 task1_b.pdb
+D:\code\project\hw3\Homework3 task1_b\obj\Debug\Homework3 task1_b.csprojAssemblyReference.cache
+D:\code\project\hw3\Homework3 task1_b\obj\Debug\Homework3 task1_b.csproj.CoreCompileInputs.cache
+D:\code\project\hw3\Homework3 task1_b\obj\Debug\Homework3 task1_b.exe
+D:\code\project\hw3\Homework3 task1_b\obj\Debug\Homework3 task1_b.pdb
