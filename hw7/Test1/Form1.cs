@@ -43,7 +43,8 @@ namespace Test1
 
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            udvoitel = new MyUdvoitel(10, 20);
+            Udvoitel udvoitel = new Udvoitel(10, 20);
+            класс о,ект = создание о,екта скласа
             UpdateInfo();
         }
         void UpdateInfo()

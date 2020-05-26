@@ -53,6 +53,11 @@ namespace WF_Udvoitel
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
     //internal class Udvoitel
